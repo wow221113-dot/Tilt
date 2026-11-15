@@ -11,7 +11,7 @@
     "appId": "com.tilt.app",
     "productName": "Tilt",
     "files": ["main.js", "index.html", "config.js", "build/**"],
-    "publish": [{ "provider": "github", "owner": "YOUR_GITHUB_USERNAME", "repo": "tilt" }],
+    "publish": [{ "provider": "github", "owner": "wow221113-dot.github.io", "repo": "tilt" }],
     "win": { "target": "nsis", "icon": "build/icon.ico" },
     "nsis": { "oneClick": true, "createDesktopShortcut": true, "createStartMenuShortcut": true },
     "mac": { "target": "dmg", "icon": "build/icon.png" },
